@@ -83,7 +83,7 @@ input.input100 {
   top: -2px;
   left: -2px;
   pointer-events: none;
-  border: 2px solid #57b846;
+  border: 2px solid #02c1c2;
   border-radius: 5px;
 
   visibility: hidden;
@@ -321,7 +321,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
 .bg0 {background-color: #fff;}
-.bg1 {background-color: #57b846;}
+.bg1 {background-color: #02c1c2;}
 .bg3 {background-color: #3b5998;}
 .bg4 {background-color: #1da1f2;}
 .bg5 {background-color: #cd201f;}
@@ -377,11 +377,11 @@ input.input100 {
 .how1 {
   border-radius: 50%;
   font-size: 22px;
-  color: #fff;
+  color: #02c1c2;
 }
 .how1:hover {
-  background-color: #555555;
-  color: #fff;
+  background-color: #fff;
+  color: #02c1c2;
 }
 
 /*---------------------------------------------*/
@@ -462,11 +462,11 @@ input.input100 {
 
 /*------------------------------------------------------------------
 [ Hover ]*/
-.hov-cl0:hover {color: #fff;}
-.hov-bg0:hover {background-color: #fff;}
+.hov-cl0:hover {color: #02c1c2;}
+.hov-bg0:hover {background-color: #02c1c2;}
 /*---------------------------------------------*/
 .hov1:hover {
-  background-color: #555555;
+  background-color: #02c1c2;
 }
 
 

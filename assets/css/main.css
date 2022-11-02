@@ -31,3 +31,11 @@ body {
 ul .check-list{
     list-style-type: circle !important; 
 }
+
+h3, h4{
+    color: var(--main-color) !important;
+}
+
+.bg-gradient{
+    background-color: var(--main-color) !important;
+}
