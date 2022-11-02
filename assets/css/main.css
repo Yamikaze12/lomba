@@ -1,0 +1,33 @@
+:root{
+    --main-color : #02c1c2 ;
+    --second-color :#2a245e;
+}
+
+body {
+    padding-bottom: 20px;
+}
+
+/* navbar */
+.navbar {
+    margin-bottom: 20px;
+    background-color: var(--second-color);
+}
+.nav-link{
+    color: white;
+    font-weight: 700;
+    font-size: 15;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: 900;
+}
+
+
+.hero h1{
+    color: var(--main-color) !important;
+}
+
+ul .check-list{
+    list-style-type: circle !important; 
+}
