@@ -10,32 +10,42 @@ body {
 /* navbar */
 .navbar {
     margin-bottom: 20px;
-    background-color: var(--second-color);
+
 }
 .nav-link{
-    color: white;
+    color: black;
     font-weight: 700;
     font-size: 15;
+    font-family: sans-serif;
 }
-
+.navbar-collapse{
+    margin-left: 50px;
+}
 .navbar-brand{
-    color: white;
+    color: var(--main-color);
     font-weight: 900;
 }
 
 
 .hero h1{
     color: var(--main-color) !important;
+    font-weight: 900;
 }
 
 ul .check-list{
     list-style-type: circle !important; 
 }
 
-h3, h4{
+h2, h3, h4{
     color: var(--main-color) !important;
+    font-weight: 900;
 }
 
 .bg-gradient{
     background-color: var(--main-color) !important;
+}
+
+
+.l{
+    color: white !important;
 }
